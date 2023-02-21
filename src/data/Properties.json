@@ -1,0 +1,32 @@
+[
+  {
+  "Id" : 1,
+  "Name": "Honda Civic",
+  "Type": "Sedan",
+  "Price": 1000
+},
+{
+  "Id" : 2,
+  "Name": "Maruti Suzuki",
+  "Type": "Sedan",
+  "Price": 1000
+},
+{
+  "Id" : 3,
+  "Name": "Skoda Rapid",
+  "Type": "Sedan",
+  "Price": 1000
+},
+{
+  "Id" : 4,
+  "Name": "Tata Nexon",
+  "Type": "SUV",
+  "Price": 1000
+},
+{
+  "Id" : 5,
+  "Name": "Mahindra Scorpio",
+  "Type": "SUV",
+  "Price": 1000
+}
+]
